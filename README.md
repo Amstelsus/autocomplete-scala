@@ -1,4 +1,4 @@
-# Submission for ContentSquare Data Engineering test
+# Submission
 ## Code
 #### Comments on the code
 This program contains an implementation of a Trie, applied to a autocompletion search algorithm case. It is typed in Scala 2.11.8,
